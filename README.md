@@ -10,8 +10,11 @@ Each possible digitalker word is uploaded as its own `.mp3` file, and its track 
 
 - SSR1/SSR2
 - JE520
+- Genesis Alarm Panel
 
-## Missing ROMs and Indexes
+## Missing Datasheets, ROMs, and Indexes
+
+Missing Genesis Alarm Panel word list / datasheet
 
 Missing all of SSR5/SSR6
 
