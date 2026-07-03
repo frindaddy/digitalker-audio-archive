@@ -27,6 +27,11 @@ Each Digitalker word is uploaded as its own `.mp3` file, and its track number is
 #### Whole ROM Audios
 
 - Missing all of SSR5/SSR6 ROM
+- Missing all of MM52116SHR/L / DT1052 ROM
+- Missing all of Dynamic Logic LTD ROM
+- Missing all of RS Components Type-2 (MM52664SJQR) and Type-4 (MM52664SJQT) ROM
+- Missing all of Faceoff Pinball ROM
+- Missing all of Harem Pinball ROM
 
 #### Missing from JE520:
 
