@@ -16,11 +16,16 @@ Each Digitalker word is uploaded as its own `.mp3` file, and its track number is
 
 ## Missing Datasheets, ROMs, and Indexes
 
-Missing Genesis Alarm Panel word list / datasheet
+#### Datasheets
 
-Missing all of SSR5/SSR6
+- Missing Genesis Alarm Panel word list / datasheet
 
-Missing from JE520:
+#### Whole ROM Audios
+
+- Missing all of SSR5/SSR6
+
+#### Missing from JE520:
+
 | Index | Word |
 | :-----: | :----: |
 | 17 | -ED as 'start**ed**' |
