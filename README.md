@@ -13,16 +13,18 @@ Each Digitalker word is uploaded as its own `.mp3` file, and its track number is
 - SSR1/SSR2
 - JE520
 - Genesis Alarm Panel
+- Sensaphone
 
 ## Missing Datasheets, ROMs, and Indexes
 
 #### Datasheets
 
 - Missing Genesis Alarm Panel word list / datasheet
+- Missing Sensaphone word list / datasheet
 
 #### Whole ROM Audios
 
-- Missing all of SSR5/SSR6
+- Missing all of SSR5/SSR6 ROM
 
 #### Missing from JE520:
 
@@ -45,3 +47,8 @@ Each Digitalker word is uploaded as its own `.mp3` file, and its track number is
 | 31 | UN- as '**un**clear' |
 | 38 | and |
 | 39 | not |
+
+#### Indexes
+
+- Genesis Alarm Panel index order is unconfirmed
+- Sensaphone index order is unconfirmed
