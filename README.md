@@ -14,6 +14,7 @@ Each Digitalker word is uploaded as its own `.mp3` file, and its track number is
 - JE520
 - Genesis Alarm Panel
 - Sensaphone
+- Scorpion Pinball
 
 ## Missing Datasheets, ROMs, and Indexes
 
@@ -21,6 +22,7 @@ Each Digitalker word is uploaded as its own `.mp3` file, and its track number is
 
 - Missing Genesis Alarm Panel word list / datasheet
 - Missing Sensaphone word list / datasheet
+- Missing Scorpion Pinball word list / datasheet
 
 #### Whole ROM Audios
 
@@ -52,3 +54,4 @@ Each Digitalker word is uploaded as its own `.mp3` file, and its track number is
 
 - Genesis Alarm Panel index order is unconfirmed
 - Sensaphone index order is unconfirmed
+- Scorpion Pinball index order is unconfirmed
