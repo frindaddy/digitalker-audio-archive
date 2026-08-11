@@ -55,7 +55,7 @@ Each Digitalker word is uploaded as its own `.mp3` file, and its track number is
 | 38 | and |
 | 39 | not |
 
-#### Indexes
+#### Indices
 
 - Genesis Alarm Panel index order is unconfirmed
 - Sensaphone index order is unconfirmed
