@@ -16,6 +16,7 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 
 ## Availible ROMs
 
+- DT1052
 - SSR1/SSR2
 - SSR5/SSR6
 - JE520
