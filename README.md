@@ -4,9 +4,15 @@ This repository is an audio archive of the National Semiconductor MM54104 Mozer 
 
 This repository stores audio recordings of the different ROM chip vocabularies played through the MM54104 chip. ROM dumps can be found on [The Internet Archive](https://archive.org/details/digitalker).
 
+The audio recordings in this repo were generated using a custom Digitalker hardware platform designed by me, [Digichiver](https://github.com/frindaddy/digichiver).
+
 ## How to use
 
-Each Digitalker word is uploaded as its own `.mp3` file, and its track number is the word's index in ROM. Each ROM's vocabulary is separated into its own folder.
+Each Digitalker word is uploaded as its own `.wav` file. Each ROM's vocabulary is separated into its own folder.
+
+When possible, the file names follow the convention `<index>_<word>.wav`, where `index` is the word address in the word list and `word` is the word name.
+
+Unfortunately, word lists do not exist for all ROMs. In cases where there is no word list, wav files are just stored as `<index>.wav`
 
 ## Availible ROMs
 
