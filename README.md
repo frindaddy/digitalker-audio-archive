@@ -22,6 +22,7 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 | Elevator | Guessing this is a ROM for an elevator controller. Numbers and some status words. |
 | Face-off | This is a hockey arcade game from 1983 created by SoftLogic ([link](https://www.arcade-museum.com/tech-center/machine/faceoffh)). I'm not sure if I have all the ROM binary files. The only audio files I can generate seem to be of a crowd cheering at a stadium. |
 | Genesis | This is a ROM for an alarm panel manufacturd by Genesis. It has some special words related to security, such as `intruder`, `gun`, and `burglar`. |
+| [Harem](https://www.youtube.com/watch?v=ZP5FEuuYfRM) | Harem was a 1983 arcade game released by Italian company I.G.R, their only known output. This ROM is full of silences, which makes me think I got a corrupted file, or it just wasn't very efficient. |
 | Jameco JE520 | This was an expansion card for the Commodore 64 (JE520-CM) or Apple II (JE520-AP) that brough Digitalker voice to home computers. |
 | RS-Type2 and Type4 | These ROMs were created and distributed by RS Components in the United Kingdom. They feature a british male accent, which is pretty fun. |
 | Sensaphone | This ROM was used in Sensaphone remote monitoring autodialers like the Sensaphone 1104. |
@@ -35,6 +36,7 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 The following ROMs are missing official datasheets and word lists. Files are named to the best of my hearing capability.
 
 - Genesis Alarm Panel
+- Harem
 - RS-Type2
 - RS-Type4
 - Sensaphone
