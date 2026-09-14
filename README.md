@@ -21,6 +21,7 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 - Genesis Alarm Panel
 - JE520
 - RS-Type2
+- RS-Type4
 - Sensaphone
 - SSR1/SSR2
 - SSR5/SSR6
@@ -37,7 +38,6 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 #### Whole ROM Audios
 
 - Missing all of Dynamic Logic LTD ROM
-- Missing all of RS Components Type-2 (MM52664SJQR) and Type-4 (MM52664SJQT) ROM
 - Missing all of Faceoff Pinball ROM
 - Missing all of Harem Pinball ROM
 
