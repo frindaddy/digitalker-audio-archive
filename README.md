@@ -4,7 +4,7 @@ This repository is an audio archive of the National Semiconductor MM54104 Mozer 
 
 This repository stores audio recordings of the different ROM chip vocabularies played through the MM54104 chip. ROM dumps can be found on [The Internet Archive](https://archive.org/details/digitalker).
 
-The audio recordings in this repo were generated using a custom Digitalker hardware platform designed by me, [Digichiver](https://github.com/frindaddy/digichiver).
+The audio recordings in this repo were generated using a custom Digitalker hardware platform designed by me, [Digichiver](https://github.com/frindaddy/digichiver). All ROM binary files and dictionary.jsons can be found in that repo [in the software folder](https://github.com/frindaddy/digichiver/tree/main/Software).
 
 ## How to Use
 
@@ -50,7 +50,7 @@ The following ROMs are missing official datasheets and word lists. Files are nam
 - Sensaphone
 - Zaccaria's Scorpion Pinball
 
-#### Whole ROM Audios
+#### ROM Audios
 
 - Missing all of Dynamic Logic LTD ROM
 - Missing all of Faceoff Pinball ROM
