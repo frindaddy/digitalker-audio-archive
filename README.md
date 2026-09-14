@@ -2,7 +2,7 @@
 
 This repository is an audio archive of the National Semiconductor MM54104 Mozer Digitalker speech synthesis integrated circuit system. The system was developed in the late 1970s and early 1980s, and allowed early computer to output remarkably clear human speech by sequencing pre-recorded word ROMs. Multiple ROMs were released with varying vocabularies before the product was discontinued circa 1990.
 
-This repository stores audio recordings of the different ROM chip vocabularies played through the MM54104 chip. ROM dumps can be found on [The Internet Archive](https://archive.org/details/digitalker).
+This repository stores audio recordings of the different ROM chip vocabularies played through the MM54104 chip.
 
 The audio recordings in this repo were generated using a custom Digitalker hardware platform designed by me, [Digichiver](https://github.com/frindaddy/digichiver). All ROM binary files and dictionary.jsons can be found in that repo [in the software folder](https://github.com/frindaddy/digichiver/tree/main/Software).
 
@@ -44,7 +44,11 @@ The following ROMs are missing official datasheets and word lists. Files are nam
 - Sensaphone
 - Zaccaria's Scorpion Pinball
 
-### ROM Audios
+### ROMs
 
 - Missing all of Dynamic Logic LTD ROM
 - Potentially missing some Face-off words/audio
+
+### ROM Image Sources
+
+All other ROM images are sourced from the [Internet Archive](https://archive.org/details/digitalker).
