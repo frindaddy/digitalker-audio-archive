@@ -27,7 +27,7 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 - SSR5/SSR6
 - Zaccaria's Scorpion Pinball
 
-| | |
+| ROM Name | Info |
 | :----: | :---: |
 | DT1052 | Short word list consisting of 0-9 and "point." Probably shipped as a demo with the MM54104 chip. |
 | elevator.bin | Guessing this is a ROM for an elevator controller. Numbers and some status words. |
