@@ -20,7 +20,7 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 - "elevator.bin"
 - Genesis Alarm Panel
 - JE520
-- Scorpion Pinball
+- Zaccaria's Scorpion Pinball
 - Sensaphone
 - SSR1/SSR2
 - SSR5/SSR6
@@ -30,8 +30,8 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 #### Datasheets
 
 - Missing Genesis Alarm Panel word list / datasheet
-- Missing Scorpion Pinball word list / datasheet
 - Missing official Sensaphone word list. Files are named to the best of my hearing capability.
+- Missing official Scorpion Pinball word list. Files are named to the best of my hearing capability.
 
 #### Whole ROM Audios
 
@@ -66,4 +66,3 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 #### Indices
 
 - Genesis Alarm Panel index order is unconfirmed
-- Scorpion Pinball index order is unconfirmed
