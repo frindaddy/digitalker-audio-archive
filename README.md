@@ -19,6 +19,7 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 | ROM Name | Info |
 | :----: | :---: |
 | DT1052 | Short word list consisting of 0-9 and "point." Probably shipped as a demo with the MM54104 chip. |
+| DVSS | This ROM dump contains all the possible words from the Digitalker Voice Selection Software (DVSS). This National Semiconductor program allowed creation of custom speech ROMs from a vocabulary list of 654 words and sounds. This ROM dump is provided by [@MarkD833](https://github.com/MarkD833). |
 | Elevator | Guessing this is a ROM for an elevator controller. Numbers and some status words. |
 | Face-off | This is a hockey arcade game from 1983 created by SoftLogic ([link](https://www.arcade-museum.com/tech-center/machine/faceoffh)). I'm not sure if I have all the ROM binary files. The only audio files I can generate seem to be of a crowd cheering at a stadium. |
 | Genesis | This is a ROM for an alarm panel manufacturd by Genesis. It has some special words related to security, such as `intruder`, `gun`, and `burglar`. |
@@ -54,5 +55,7 @@ The following ROMs are missing official datasheets and word lists. Files are nam
 - Potentially missing some Face-off words/audio
 
 ## ROM Image Sources
+
+ROM images from the Digitalker Digital Voice Selection Software (DVSS) are provided as a courtesy by [@MarkD833](https://github.com/MarkD833) thanks to his invaluable work archiving the DVSS outputs [(link to DVSS repo)](https://github.com/MarkD833/Digitalker-Digital-Voice-Selection-Software). The DVSS images have been converted from Intel HEX to binary files for compatability with the Digichiver hardware.
 
 All other ROM images are sourced from the [Internet Archive](https://archive.org/details/digitalker).
