@@ -17,13 +17,13 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 ## Availible ROMs
 
 - DT1052
+- "elevator.bin"
+- Genesis Alarm Panel
+- JE520
+- Scorpion Pinball
+- Sensaphone
 - SSR1/SSR2
 - SSR5/SSR6
-- JE520
-- Genesis Alarm Panel
-- Sensaphone
-- Scorpion Pinball
-- "elevator.bin"
 
 ## Missing Datasheets, ROMs, and Indexes
 
