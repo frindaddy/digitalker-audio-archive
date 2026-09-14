@@ -16,21 +16,10 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 
 ## Availible ROMs
 
-- DT1052
-- "elevator.bin"
-- Genesis Alarm Panel
-- JE520
-- RS-Type2
-- RS-Type4
-- Sensaphone
-- SSR1/SSR2
-- SSR5/SSR6
-- Zaccaria's Scorpion Pinball
-
 | ROM Name | Info |
 | :----: | :---: |
 | DT1052 | Short word list consisting of 0-9 and "point." Probably shipped as a demo with the MM54104 chip. |
-| elevator.bin | Guessing this is a ROM for an elevator controller. Numbers and some status words. |
+| Elevator | Guessing this is a ROM for an elevator controller. Numbers and some status words. |
 | Face-off | This is a hockey arcade game from 1983 created by SoftLogic ([link](https://www.arcade-museum.com/tech-center/machine/faceoffh)). I'm not sure if I have all the ROM binary files. The only audio files I can generate seem to be of a crowd cheering at a stadium. |
 | Genesis | This is a ROM for an alarm panel manufacturd by Genesis. It has some special words related to security, such as `intruder`, `gun`, and `burglar`. |
 | Jameco JE520 | This was an expansion card for the Commodore 64 (JE520-CM) or Apple II (JE520-AP) that brough Digitalker voice to home computers. |
