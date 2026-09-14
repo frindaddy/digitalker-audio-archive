@@ -29,8 +29,8 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 #### Datasheets
 
 - Missing Genesis Alarm Panel word list / datasheet
-- Missing Sensaphone word list / datasheet
 - Missing Scorpion Pinball word list / datasheet
+- Missing official Sensaphone word list. Files are named to the best of my hearing capability.
 
 #### Whole ROM Audios
 
@@ -65,5 +65,4 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 #### Indices
 
 - Genesis Alarm Panel index order is unconfirmed
-- Sensaphone index order is unconfirmed
 - Scorpion Pinball index order is unconfirmed
