@@ -34,7 +34,7 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 
 #### Whole ROM Audios
 
-- Missing all of MM52116SHR/L / DT1052 ROM
+- Missing all of MM52116SHR/L
 - Missing all of Dynamic Logic LTD ROM
 - Missing all of RS Components Type-2 (MM52664SJQR) and Type-4 (MM52664SJQT) ROM
 - Missing all of Faceoff Pinball ROM
