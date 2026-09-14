@@ -47,7 +47,6 @@ The following ROMs are missing official datasheets and word lists. Files are nam
 #### ROM Audios
 
 - Missing all of Dynamic Logic LTD ROM
-- Missing all of I.G.R's Harem Pinball ROM
 - Potentially missing some Face-off words/audio
 
 #### Missing from JE520:
