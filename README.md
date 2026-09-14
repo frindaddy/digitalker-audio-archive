@@ -6,7 +6,7 @@ This repository stores audio recordings of the different ROM chip vocabularies p
 
 The audio recordings in this repo were generated using a custom Digitalker hardware platform designed by me, [Digichiver](https://github.com/frindaddy/digichiver).
 
-## How to use
+## How to Use
 
 Each Digitalker word is uploaded as its own `.wav` file. Each ROM's vocabulary is separated into its own folder.
 
