@@ -68,6 +68,3 @@ The following ROMs are missing official datasheets and word lists. Files are nam
 | 38 | and |
 | 39 | not |
 
-#### Indices
-
-- Genesis Alarm Panel index order is unconfirmed
