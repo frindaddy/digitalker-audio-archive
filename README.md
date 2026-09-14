@@ -20,10 +20,10 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 - "elevator.bin"
 - Genesis Alarm Panel
 - JE520
-- Zaccaria's Scorpion Pinball
 - Sensaphone
 - SSR1/SSR2
 - SSR5/SSR6
+- Zaccaria's Scorpion Pinball
 
 ## Missing Datasheets, ROMs, and Indexes
 
