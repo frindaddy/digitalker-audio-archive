@@ -31,6 +31,10 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 
 ## Missing Datasheets, ROMs
 
+### Recording Software
+
+The holy grail of Digitalker archiving is the program used to record your own audio and create Digitalker ROM files. If you happen to know where an archive of this software is, please contact me.
+
 ### Word Lists
 
 The following ROMs are missing official datasheets and word lists. Files are named to the best of my hearing capability.
@@ -49,6 +53,6 @@ The following ROMs are missing official datasheets and word lists. Files are nam
 - Missing all of Dynamic Logic LTD ROM
 - Potentially missing some Face-off words/audio
 
-### ROM Image Sources
+## ROM Image Sources
 
 All other ROM images are sourced from the [Internet Archive](https://archive.org/details/digitalker).
