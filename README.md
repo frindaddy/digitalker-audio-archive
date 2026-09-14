@@ -35,6 +35,8 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 
 The following ROMs are missing official datasheets and word lists. Files are named to the best of my hearing capability.
 
+- Elevator
+- Face-off
 - Genesis Alarm Panel
 - Harem
 - RS-Type2
