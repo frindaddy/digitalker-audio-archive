@@ -31,6 +31,7 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 | :----: | :---: |
 | DT1052 | Short word list consisting of 0-9 and "point." Probably shipped as a demo with the MM54104 chip. |
 | elevator.bin | Guessing this is a ROM for an elevator controller. Numbers and some status words. |
+| Face-off | This is a hockey arcade game from 1983 created by SoftLogic ([link](https://www.arcade-museum.com/tech-center/machine/faceoffh)). I'm not sure if I have all the ROM binary files. The only audio files I can generate seem to be of a crowd cheering at a stadium, but its hard to tell. |
 | Genesis | This is a ROM for an alarm panel manufacturd by Genesis. It has some special words related to security, such as `intruder`, `gun`, and `burglar`. |
 | Jameco JE520 | This was an expansion card for the Commodore 64 (JE520-CM) or Apple II (JE520-AP) that brough Digitalker voice to home computers. |
 | RS-Type2 and Type4 | These ROMs were created and distributed by RS Components in the United Kingdom. They feature a british male accent, which is pretty fun. |
@@ -53,8 +54,8 @@ The following ROMs are missing official datasheets and word lists. Files are nam
 #### ROM Audios
 
 - Missing all of Dynamic Logic LTD ROM
-- Missing all of Faceoff Pinball ROM
 - Missing all of I.G.R's Harem Pinball ROM
+- Potentially missing some Face-off words/audio
 
 #### Missing from JE520:
 
