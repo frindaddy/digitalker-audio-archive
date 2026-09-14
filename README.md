@@ -31,7 +31,7 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 
 ## Missing Datasheets, ROMs
 
-#### Word Lists
+### Word Lists
 
 The following ROMs are missing official datasheets and word lists. Files are named to the best of my hearing capability.
 
@@ -44,7 +44,7 @@ The following ROMs are missing official datasheets and word lists. Files are nam
 - Sensaphone
 - Zaccaria's Scorpion Pinball
 
-#### ROM Audios
+### ROM Audios
 
 - Missing all of Dynamic Logic LTD ROM
 - Potentially missing some Face-off words/audio
