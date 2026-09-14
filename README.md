@@ -23,6 +23,7 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 - Genesis Alarm Panel
 - Sensaphone
 - Scorpion Pinball
+- "elevator.bin"
 
 ## Missing Datasheets, ROMs, and Indexes
 
