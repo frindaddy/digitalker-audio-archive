@@ -27,19 +27,34 @@ Unfortunately, word lists do not exist for all ROMs. In cases where there is no 
 - SSR5/SSR6
 - Zaccaria's Scorpion Pinball
 
-## Missing Datasheets, ROMs, and Indexes
+| | |
+| :----: | :---: |
+| DT1052 | Short word list consisting of 0-9 and "point." Probably shipped as a demo with the MM54104 chip. |
+| elevator.bin | Guessing this is a ROM for an elevator controller. Numbers and some status words. |
+| Genesis | This is a ROM for an alarm panel manufacturd by Genesis. It has some special words related to security, such as `intruder`, `gun`, and `burglar`. |
+| Jameco JE520 | This was an expansion card for the Commodore 64 (JE520-CM) or Apple II (JE520-AP) that brough Digitalker voice to home computers. |
+| RS-Type2 and Type4 | These ROMs were created and distributed by RS Components in the United Kingdom. They feature a british male accent, which is pretty fun. |
+| Sensaphone | This ROM was used in Sensaphone remote monitoring autodialers like the Sensaphone 1104. |
+| SSR1/2/5/6 | As far as I know, these are the only official ROMs made by National Semiconductor. These have a science/math focus. No one is sure if SSR3 and SSR4 exist. |
+| Zaccaria's Scorpion Pinball | ROM used in Zaccaria's *Scorpion* Pinball (not Williams *Scorpion*). |
 
-#### Datasheets
+## Missing Datasheets, ROMs
 
-- Missing Genesis Alarm Panel word list / datasheet
-- Missing official Sensaphone word list. Files are named to the best of my hearing capability.
-- Missing official Scorpion Pinball word list. Files are named to the best of my hearing capability.
+#### Word Lists
+
+The following ROMs are missing official datasheets and word lists. Files are named to the best of my hearing capability.
+
+- Genesis Alarm Panel
+- RS-Type2
+- RS-Type4
+- Sensaphone
+- Zaccaria's Scorpion Pinball
 
 #### Whole ROM Audios
 
 - Missing all of Dynamic Logic LTD ROM
 - Missing all of Faceoff Pinball ROM
-- Missing all of Harem Pinball ROM
+- Missing all of I.G.R's Harem Pinball ROM
 
 #### Missing from JE520:
 
