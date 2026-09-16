@@ -4,7 +4,7 @@ This repository is an audio archive of the National Semiconductor MM54104 Mozer 
 
 This repository stores audio recordings of the different ROM chip vocabularies played through the MM54104 chip.
 
-The audio recordings in this repo were generated using a custom Digitalker hardware platform designed by me, [Digichiver](https://github.com/frindaddy/digichiver). All ROM binary files and dictionary.jsons can be found in that repo [in the software folder](https://github.com/frindaddy/digichiver/tree/main/Software).
+The audio recordings in this repo were generated using a [custom Digitalker hardware platform](https://github.com/frindaddy/digichiver). All ROM binary files and word lists (`<ROM>_dictionary.json`) can be found in that repo under the [software folder](https://github.com/frindaddy/digichiver/tree/main/Software).
 
 ## How to Use
 
